@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1459705835243704496/1462448169383100579/-_2026-01-16T011741.062.jpg?ex=696e3a7e&is=696ce8fe&hm=7e33905c906a26145db3ff9b61b5adda04f711d9b68b8683a69a6185388079b0&" alt="QuickDrop Banner" width="800"/>
+  <img src="https://cdn.discordapp.com/attachments/1459705835243704496/1462448482517520425/95.jpg?ex=696e3ac9&is=696ce949&hm=60328023b1a7f37fc02482358698d1d985ac4af7222a817d8dd92a4fa84db521&" alt="QuickDrop Banner" width="800"/>
 </p>
 
 <h1 align="center">🚀 QuickDrop</h1>
