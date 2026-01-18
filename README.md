@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Nawaf/file-sharing-platform/main/assets/banner.png" alt="QuickDrop Banner" width="800"/>
+  <img src="https://cdn.discordapp.com/attachments/1459705835243704496/1462448169383100579/-_2026-01-16T011741.062.jpg?ex=696e3a7e&is=696ce8fe&hm=7e33905c906a26145db3ff9b61b5adda04f711d9b68b8683a69a6185388079b0&" alt="QuickDrop Banner" width="800"/>
 </p>
 
 <h1 align="center">🚀 QuickDrop</h1>
@@ -91,5 +91,3 @@ Multi-language support
 © 2026 Nawaf. All rights reserved.
 This project is licensed under MIT License.
 
-<p align="center"> Made with ❤️ by <b>Nawaf</b> </p>
-<p align="center"> <a href="https://github.com/Nawaf/file-sharing-platform/stargazers"><img src="https://img.shields.io/github/stars/Nawaf/file-sharing-platform?style=for-the-badge" alt="Stars"></a> <a href="https://github.com/Nawaf/file-sharing-platform/issues"><img src="https://img.shields.io/github/issues/Nawaf/file-sharing-platform?style=for-the-badge" alt="Issues"></a> <a href="https://github.com/Nawaf/file-sharing-platform/network/members"><img src="https://img.shields.io/github/forks/Nawaf/file-sharing-platform?style=for-the-badge" alt="Forks"></a> </p> ```
